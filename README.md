@@ -15,3 +15,8 @@ Some sample input files are provided in /test folder. To see how they work type
 $ make all
 $ ./tvs ./test/input2.txt
 ```
+
+To clean the directory
+```
+$ make clean
+```
