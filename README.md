@@ -1,7 +1,8 @@
 # booster-placement
 
-To compile the program go to the booster-placement type the following command
+To compile the program type the following command
 ```
+$ cd /download_path/booster-placement/
 $ make all
 ```
 
