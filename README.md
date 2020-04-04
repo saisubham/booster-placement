@@ -21,3 +21,5 @@ To clean the directory
 ```
 $ make clean
 ```
+- [x] CLI implementation
+- [ ] GUI implementation (something ambitious :wink:)
